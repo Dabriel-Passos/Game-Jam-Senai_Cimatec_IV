@@ -1,21 +1,12 @@
-draw_set_font(Fnt_morto)
-draw_text(500,200,"BEYOND THE VEIL");
 
-draw_set_font(Fnt_rei);
-
-draw_text(500,350,"JOGAR");
-draw_text(500,400,"Como Jogar");
-draw_text(500,450,"Créditos");
-draw_text(500,500,"Sair");
-
-if(opcao == 0)
-    draw_text(450,350,">");
+if(opcao == 0) 
+    draw_sprite(Spr_Seta,0,550,420);
 
 if(opcao == 1)
-    draw_text(450,400,">");
+    draw_sprite(Spr_Seta,0,550,515);
 	
 if(opcao == 2)
-    draw_text(450,450,">");
-	
+   draw_sprite(Spr_Seta,0,550,610);
+
 if(opcao == 3)
-    draw_text(450,500,">");
+    draw_sprite(Spr_Seta,0,550,705);

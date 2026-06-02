@@ -24,15 +24,15 @@
   "name":"Spr_Tile",
   "nineSlice":{
     "$GMNineSliceData":"",
-    "bottom":11,
-    "enabled":false,
+    "bottom":5,
+    "enabled":true,
     "guideColour":[4294902015,4294902015,4294902015,4294902015,],
     "highlightColour":1728023040,
     "highlightStyle":0,
-    "left":11,
+    "left":5,
     "resourceType":"GMNineSliceData",
     "resourceVersion":"2.0",
-    "right":11,
+    "right":5,
     "tileMode":[
       0,
       0,
@@ -40,7 +40,7 @@
       0,
       0,
     ],
-    "top":11,
+    "top":5,
   },
   "origin":0,
   "parent":{

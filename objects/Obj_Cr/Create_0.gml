@@ -1,3 +1,3 @@
 if(global.zero>0) {
-	alarm[0] = 120;
+	alarm[0] = 10*60;
 }
